@@ -1,7 +1,6 @@
-import { MqttClient } from "mqtt";
 import { useEffect, useState } from "react";
 import { topics } from "../mqtt_connect";
-import { Box, Typography } from "@mui/material";
+import { Typography } from "@mui/material";
 import MQTT from "../mqtt_connect";
 
 const clientId = `mqtt_NguyenBaHiep_30012001_Piscada_DevicePage`;

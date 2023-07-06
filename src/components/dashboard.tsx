@@ -1,4 +1,3 @@
-import { MqttClient } from "mqtt";
 import { useEffect, useState } from "react";
 import { topics } from "../mqtt_connect";
 import MQTT from "../mqtt_connect";

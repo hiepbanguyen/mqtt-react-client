@@ -1,4 +1,3 @@
-import { useState, useEffect } from 'react'
 import BasicTabs from './components/tabs'
 import { Box, Typography } from '@mui/material'
 
